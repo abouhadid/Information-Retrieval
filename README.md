@@ -4,8 +4,6 @@
 
 Yassine ABOU HADID
 
-Rim BOZARI
-
 ----------------------------------------------
 An ongoing challenge in news consumption is the prevalence of redundancy, where identical news stories are reported by different sources. This repetition not only leads to information overload but also diminishes the diversity of perspectives available to readers. Exploring ways to streamline and curate news content to minimize redundancy could enhance the efficiency and variety of news consumption experiences.
 

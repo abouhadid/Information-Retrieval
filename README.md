@@ -1,5 +1,5 @@
 # Information-Retrieval
-#### Advanced Deep Learning project @ AALTO University
+#### Advanced Natural Language Processing module @ AALTO University
 ----------------------------------------------
 
 Yassine ABOU HADID

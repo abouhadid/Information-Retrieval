@@ -11,7 +11,7 @@ An ongoing challenge in news consumption is the prevalence of redundancy, where 
 
 In this context, this project aims to explore and compare 2 approaches:
 * Unsupervised ML approach: treating the information retrieval problem as a clustering problem,
-* Graph based approach: constructing a graph traversal algorithm to capture similar vertices.
+* Graph based approach: if we build a graph network to connect all the titles together, the major news must be the nodes with the highest degree all we need to do is to use a traversal algorithm to get these nodes.
 ----------------------------------------------
 
 **DATA:**
